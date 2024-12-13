@@ -1,6 +1,6 @@
 ﻿namespace AppLogger;
 
-public class Class1
+public class LibraryProject
 {
 
 }
